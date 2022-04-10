@@ -1,0 +1,42 @@
+{
+    "total_size": 3,
+    "type_id": 2,
+    "offset": 0,
+    "products": [
+        {
+            "id": 1,
+            "name": "Explora la cumbre",
+            "description": "Me levanté para escapar de aquella sala y caminé por el andén hacia la salida. Acababa de llegar el expreso de las siete y cinco. Un enjambre de hormigas negras empujaba y zarandeaba, caían unas sobre otras en la aglomeración que se dirigía y salía del tren. Cestas y maletas por todas partes. También bolsos anticuados de viaje que yo tenía por desaparecidos hacía ya tiempo. ¿Los habrían expulsado a todos de su tierra natal?El amor no tiene causa. Temo haber dado demasiadas razones. La verdad es que sólo lo espero. Quiero verlo una vez más. Nada más que eso. Esperar. ¡Ah! ¿No son la alegría, la furia, y la tristeza sentimientos que ocupan tan sólo una insignificante fracción de nuestra vida, y vivimos todo el enorme resto esperando? Espero con desesperante ansiedad el ruido de la felicidad que llega caminando por el pasillo, pero sólo tengo el vacío. (...) Todos pasan el día esperando inútilmente algo.",
+            "price":20,
+            "stars":4,
+            "img":"https://i.pinimg.com/564x/e6/eb/46/e6eb46ebcf5bacddaacb5054b831bfb8.jpg",
+            "location":"Calle 10, La Paz",
+            "created_at":"20-04-2022",
+            "update_at":"21-04-2022",
+            "type_id":2
+    
+        },
+        {"id": 2,
+            "name": "Explora la cumbre",
+            "description": "Me levanté para escapar de aquella sala y caminé por el andén hacia la salida. Acababa de llegar el expreso de las siete y cinco. Un enjambre de hormigas negras empujaba y zarandeaba, caían unas sobre otras en la aglomeración que se dirigía y salía del tren. Cestas y maletas por todas partes. También bolsos anticuados de viaje que yo tenía por desaparecidos hacía ya tiempo. ¿Los habrían expulsado a todos de su tierra natal?El amor no tiene causa. Temo haber dado demasiadas razones. La verdad es que sólo lo espero. Quiero verlo una vez más. Nada más que eso. Esperar. ¡Ah! ¿No son la alegría, la furia, y la tristeza sentimientos que ocupan tan sólo una insignificante fracción de nuestra vida, y vivimos todo el enorme resto esperando? Espero con desesperante ansiedad el ruido de la felicidad que llega caminando por el pasillo, pero sólo tengo el vacío. (...) Todos pasan el día esperando inútilmente algo.",
+            "price":20,
+            "stars":4,
+            "img":"https://i.pinimg.com/564x/e6/eb/46/e6eb46ebcf5bacddaacb5054b831bfb8.jpg",
+            "location":"Calle 10, La Paz",
+            "created_at":"20-04-2022",
+            "update_at":"21-04-2022",
+            "type_id":2
+            },
+            {"id": 3,
+            "name": "Explora la cumbre",
+            "description": "Me levanté para escapar de aquella sala y caminé por el andén hacia la salida. Acababa de llegar el expreso de las siete y cinco. Un enjambre de hormigas negras empujaba y zarandeaba, caían unas sobre otras en la aglomeración que se dirigía y salía del tren. Cestas y maletas por todas partes. También bolsos anticuados de viaje que yo tenía por desaparecidos hacía ya tiempo. ¿Los habrían expulsado a todos de su tierra natal?El amor no tiene causa. Temo haber dado demasiadas razones. La verdad es que sólo lo espero. Quiero verlo una vez más. Nada más que eso. Esperar. ¡Ah! ¿No son la alegría, la furia, y la tristeza sentimientos que ocupan tan sólo una insignificante fracción de nuestra vida, y vivimos todo el enorme resto esperando? Espero con desesperante ansiedad el ruido de la felicidad que llega caminando por el pasillo, pero sólo tengo el vacío. (...) Todos pasan el día esperando inútilmente algo.",
+            "price":20,
+            "stars":4,
+            "img":"https://i.pinimg.com/564x/e6/eb/46/e6eb46ebcf5bacddaacb5054b831bfb8.jpg",
+            "location":"Calle 10, La Paz",
+            "created_at":"20-04-2022",
+            "update_at":"21-04-2022",
+            "type_id":2}
+    
+    
+    ]} 
